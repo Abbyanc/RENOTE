@@ -1,0 +1,2 @@
+NOTA|1|este tiene poca longitud|Esta nota contiene poca longitud, pocas <BR>letras.<BR>|05/07/2026 21:35|BASICA=AZUL;MUNDIAL=AMARILLO;
+NOTA|2|casi NADA de longitud|practicamente nada<BR>no<BR>si<BR>|05/07/2026 21:36|MUNDIAL=AMARILLO;
